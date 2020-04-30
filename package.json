@@ -42,7 +42,7 @@
     "babel-runtime": "^6.26.0",
     "base-64": "^0.1.0",
     "egg-core": "^4.17.4",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "lodash": "^4.17.4",
     "promise-polyfill": "^6.0.2",
     "ramda": "^0.26.1",
